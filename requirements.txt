@@ -1,0 +1,5 @@
+mediapipe
+numpy
+sqlalchemy
+opencv-python
+pgvector
